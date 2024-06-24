@@ -22,7 +22,7 @@ public class Guess_The_Number {
                 System.out.println("It took you " + tryCount + " tries.");
 
                 if (tryCount == 1) {
-                    System.out.println("***YOU ARE GOD***");
+                    System.out.println("***YOU ARE GREAT***");
                 } else if (tryCount <= 3) {
                     System.out.println("Excellent Performance.\nYou Get 5 Stars: *****");
                 } else if (tryCount <= 6) {
